@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amromansour
-- 👀 I’m interested in Full Stack Development .net Core and Angular
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Cloud Tech stack
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me mansour.amro@live.com
 
